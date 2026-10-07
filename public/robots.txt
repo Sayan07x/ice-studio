@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sayan07x.github.io/ice-studio/sitemap.xml
